@@ -1,5 +1,4 @@
-# Reinforcement Learning Project: Winning Atari
-Pong on pixels
+# Reinforcement Learning Project: Winning Atari Pong on pixels
 
 In this project we have explored Atari Pong game
 environment from OpenAI gym. To win the game the agent has
