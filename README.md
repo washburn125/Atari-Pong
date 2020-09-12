@@ -13,6 +13,7 @@ to conclude basing on reward progression analysis that in case of
 policy gradient approach CNN agent performs significantly better
 that the FCN agent, but the Deep Q-Network agent outperforms
 them both in this task.
+In this project I implemented policy gradient approach (for which you can find the code here) and DQN was imlemeted by Nikita Karaev.
 
-##Project report
+## Project report
 Please read the .pdf file with finnal report for more details.
